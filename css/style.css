@@ -34,6 +34,7 @@ body {
 }
 .position {
     font-size: 30px;
+    color: rgba(26, 35, 58, 0.9);
 }
 .title {
     background-color: rgba(26, 35, 58, 0.9);
@@ -50,7 +51,7 @@ body {
 }
 .link {
     font-size: 25px;
-    color:rgba(10, 10, 10, 0.9);
+    color: rgba(26, 35, 58, 0.9);
     margin: 0 50px;
 }
 .link-text {
